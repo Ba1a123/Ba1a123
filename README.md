@@ -18,7 +18,7 @@ Welcome to my GitHub profile! I'm a software developer with a passion for full-s
 - **Spring Boot Certification**: Certified by Coursera in Spring MVC and Spring Boot development.
 
 ## 📈 Experience
-- **Academic Internship | CBIT & Savna Technologies (Oct 2023 - Dec 2023)
+- ** Intern at CBIT & Savna Technologies (Oct 2023 - Dec 2023)
 - **Web Development Internship | Nullclass (Oct 2022 - Dec 2022)
 
 
