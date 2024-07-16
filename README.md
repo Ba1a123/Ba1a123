@@ -1,6 +1,6 @@
 # Hi there, I'm Peesala Balakrishna 👋
 
--Welcome to my GitHub profile! I'm a software developer with a passion for full-stack development, AI, and cloud computing. With a strong foundation in Java, Python, and modern web technologies, I love building innovative and impactful solutions.
+Welcome to my GitHub profile! I'm a software developer with a passion for full-stack development, AI, and cloud computing. With a strong foundation in Java, Python, and modern web technologies, I love building innovative and impactful solutions.
  - [visit my Portfolio](https://bala-6b759.web.app/)
 
 <h3 align="left">Languages and Tools:</h3>
