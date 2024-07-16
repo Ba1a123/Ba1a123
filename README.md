@@ -25,6 +25,12 @@ Welcome to my GitHub profile! I'm a software developer with a passion for full-s
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ba1a123&show_icons=true&locale=en&layout=compact" alt="ba1a123" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ba1a123&show_icons=true&locale=en" alt="ba1a123" /></p>
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/balakrishna-peesala-9759a023a/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="balakrishna-peesala-9759a023a/" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/balapeesala1022/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="balapeesala1022/" height="30" width="40" /></a>
+<a href="https://auth.geeksforgeeks.org/user/user/balapeesala1022/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="user/balapeesala1022/" height="30" width="40" /></a>
+</p>
 
 
 Feel free to explore my repositories and reach out if you're interested in collaborating on exciting projects or just want to chat about tech!
