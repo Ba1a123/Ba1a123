@@ -1,31 +1,51 @@
-<h1 align="center"> Hi there, I'm Balakrishna</h1>
-<h3 align="center">Welcome to my GitHub profile! I'm a passionate software developer with a strong foundation in full-stack development and a keen interest in AI and cloud computing. With a Bachelor’s degree in IT and experience in Java, Python, React, and AWS, I'm excited to create impactful and innovative solutions.</h3>
+# Hi there, I'm Peesala Balakrishna 👋
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ba1a123&label=Profile%20views&color=0e75b6&style=flat" alt="ba1a123" /> </p>
+Welcome to my GitHub profile! I'm a software developer with a passion for full-stack development, AI, and cloud computing. With a strong foundation in Java, Python, and modern web technologies, I love building innovative and impactful solutions.
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ba1a123" alt="ba1a123" /></a> </p>
+## 🔧 Skills & Tools
+- **Languages**: Java, Python, JavaScript, SQL
+- **Frameworks**: Spring Boot, React.js, Express.js
+- **Technologies**: MongoDB, Node.js, AWS (EC2, S3, VPC)
+- **Frontend**: HTML, CSS, Bootstrap
+- **Dev Tools**: Git, Docker, Firebase
 
-- 🌱 I’m currently learning **Cloud computing and DeepLearning Technologies**
+## 🚀 Projects
+### [Course Management System](https://github.com/Ba1a123/course_mngmnt)
+A robust system built with Spring Boot for managing user registrations, course enrollments, and administrative roles. It features efficient, role-based access control and high-performance APIs.
 
-- 👨‍💻 All of my projects are available at [https://bala-6b759.web.app/](https://bala-6b759.web.app/)
+### [Activity Points Management System](https://github.com/Ba1a123/activitypoints)
+An intuitive web application for tracking and managing student activity points at CBIT. The frontend is built with ReactJS and Bootstrap, while the backend uses ExpressJs and MongoDB, with JWT tokens for security.
 
-- 💬 Ask me about **React js, SpringBoot, Mysql**
+### [Streamflix-OTT Platform](https://netflixclone-72a5c.web.app/)
+A user-friendly OTT platform developed using ReactJS and the TMDB API. It features innovative post-viewing movie reviews and ratings, making it a standout platform. Hosted on Firebase.
 
-- 📫 How to reach me **balapeesala1022@gmail.com**
+## 📚 Education
+- **B.E. in Information Technology**
+  - Chaitanya Bharathi Institute of Technology, Hyderabad
+  - GPA: 9.34/10.00 (Expected Graduation: May 2025)
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1PB0WUzlvrTFr_7jiVzft8bQziuim7BlE/view?usp=sharing](https://drive.google.com/file/d/1PB0WUzlvrTFr_7jiVzft8bQziuim7BlE/view?usp=sharing)
+## 🏆 Achievements
+- **AWS Certified Cloud Practitioner**: Demonstrating foundational knowledge in AWS cloud services.
+- **Co-author**: Contributed to a chapter on "Scalable and Micro Service-Oriented Approach Using FaaS" in the book "Serverless Computing Concepts, Technology, and Architecture."
+- **DSA Enthusiast**: Solved over 300 problems on LeetCode and GFG.
+- **Spring Boot Certification**: Certified by Coursera in Spring MVC and Spring Boot development.
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/balakrishna-peesala-9759a023a/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="balakrishna-peesala-9759a023a/" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/balapeesala1022/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="balapeesala1022/" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/user/balapeesala1022/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="user/balapeesala1022/" height="30" width="40" /></a>
-</p>
+## 📈 Experience
+### Academic Internship | CBIT & Savna Technologies (Oct 2023 - Dec 2023)
+Worked on developing an AI-Enabled Student Mentoring System, focusing on designing and implementing modules for analyzing student data and predicting exam results.
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> </p>
+### Web Development Internship | Nullclass (Oct 2022 - Dec 2022)
+Developed a School Management System using MongoDB, ExpressJs, and NodeJs. Improved data retrieval times by 40% and integrated AWS services for enhanced application performance.
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ba1a123&show_icons=true&locale=en&layout=compact" alt="ba1a123" /></p>
+## 🎓 Positions & Responsibilities
+- **Vice President at CBIT Cyber Security Club**: Organized 10+ workshops, enhancing cybersecurity knowledge for over 200 students.
+- **Web Master at CBIT IEEE Educational Society**: Led efforts to maintain and optimize the society’s digital presence.
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ba1a123&show_icons=true&locale=en" alt="ba1a123" /></p>
+## 📫 Let's Connect!
+- [LeetCode](https://leetcode.com/u/balapeesala1022/)
+- [Email](mailto:balapeesala1022@gmail.com)
+- [LinkedIn](http://linkedin.com/in/balakrishna-peesala-9759a023a)
+- [GitHub](https://github.com/Ba1a123)
+- [Portfolio](https://bala-6b759.web.app/)
 
+Feel free to explore my repositories and reach out if you're interested in collaborating on exciting projects or just want to chat about tech!
